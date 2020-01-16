@@ -4004,12 +4004,18 @@ input, select, textarea {
 		color: #76ddff!important;
 	}
 
+	/* .proholder{
+		margin-right: auto;
+		margin-left: auto;
+	} */
+
 	.profile {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
 		margin-bottom: 20px;
-		height: 400px;
-		width: 400px;
+		width: 100%;
+		max-width: 400px;
+		height: auto;
 		border-radius: 200px;
 	}
