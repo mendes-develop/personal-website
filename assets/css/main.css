@@ -4004,10 +4004,10 @@ input, select, textarea {
 		color: #76ddff!important;
 	}
 
-	/* .proholder{
+	.proholder{
 		margin-right: auto;
 		margin-left: auto;
-	} */
+	}
 
 	.profile {
 		display: block;
