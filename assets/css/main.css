@@ -140,7 +140,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		border-bottom: dotted 1px;
+		/* border-bottom: dotted 1px; */
 		color: inherit;
 		text-decoration: none;
 	}
@@ -4002,6 +4002,10 @@ input, select, textarea {
 
 	.base-color{
 		color: #76ddff!important;
+	}
+
+	.base-color2{
+		color: #ef5e4a!important;
 	}
 
 	.proholder{
