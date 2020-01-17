@@ -4008,6 +4008,10 @@ input, select, textarea {
 		color: #ef5e4a!important;
 	}
 
+	.base-color3{
+		color: #015668!important;
+	}
+
 	.proholder{
 		margin-right: auto;
 		margin-left: auto;
@@ -4022,4 +4026,39 @@ input, select, textarea {
 		max-width: 400px;
 		height: auto;
 		border-radius: 200px;
+	}
+
+	a.links {
+		text-decoration: underline;
+		position: relative;
+		color: #76ddff;
+		
+		/* &:after {
+			content: '';
+			height: 3px;
+			position: absolute;
+			bottom: 0;
+			left: 0;
+			width: 0%;
+			background: #069;
+			transition: 0.2s;
+		} */
+	
+		/* a:hover.links {
+			width: 100%;
+		} */
+		
+		
+		/* &.block {
+			display: block;
+			padding: 0.5em;
+			
+			&:hover {
+				background: #eee;
+			}
+		} */
+	}
+
+	.footer-text{
+		color:#a0a0a0!important;
 	}
