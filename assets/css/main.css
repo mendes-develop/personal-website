@@ -4062,3 +4062,8 @@ input, select, textarea {
 	.footer-text{
 		color:#a0a0a0!important;
 	}
+
+	.project {
+		margin-top: 2em;
+		margin-bottom: 0em;
+	}
