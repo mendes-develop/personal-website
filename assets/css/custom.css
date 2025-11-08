@@ -1,6 +1,4 @@
-@media screen and (max-width: 736px) {
-    .spotlight .image iframe {
-        width: 100% !important;
-        height: auto !important;
-    }
+.spotlight .image iframe {
+    width: 100% !important;
+    height: auto !important;
 }
