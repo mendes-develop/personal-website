@@ -1998,6 +1998,14 @@ input[type='radio'] {
 	-ms-appearance: none;
 	appearance: none;
 	display: block;
+}
+
+@media screen and (max-width: 736px) {
+    .spotlight .image iframe {
+        width: 100% !important;
+        height: auto !important;
+    }
+}
 	float: left;
 	margin-right: -2em;
 	opacity: 0;

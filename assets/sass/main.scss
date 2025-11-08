@@ -1931,3 +1931,10 @@
 			}
 		}
 	}
+
+@include breakpoint('<=small') {
+    .spotlight .image iframe {
+        width: 100% !important;
+        height: auto !important;
+    }
+}
